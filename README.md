@@ -1,7 +1,6 @@
 ### Hi there
 
-## I'm a Data Science student at Maastricht University
-- 2020 Goals: Contribute more to opensource projects
+## Data Scientist
 
 
 ### Connect with me:
